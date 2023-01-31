@@ -1,6 +1,7 @@
 ### Hi Hackers 👋
 
-![wp7459279-leonhard-euler-wallpapers](https://user-images.githubusercontent.com/116346668/212708035-58532ac7-af01-42b7-9a0b-f38d08b32a2d.jpg)
+![image](https://user-images.githubusercontent.com/116346668/215869594-78adeeb8-add7-4cc0-bd59-7297c46d5b13.png)
+
 
 
 Welcome to my github-page. I've created this page to share my learning journey to InfoSec community.
