@@ -1,7 +1,6 @@
 ### Hi Hackers 👋
 
-https://media.giphy.com/media/8YBpKSm3uPWG9Ca0F4/giphy.gif
-
+![giphy](https://user-images.githubusercontent.com/116346668/215870370-484e42da-51b7-4e70-a892-cb26f41e008a.gif)
 
 
 Welcome to my github-page. I've created this page to share my learning journey to InfoSec community.
