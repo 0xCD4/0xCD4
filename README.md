@@ -1,6 +1,6 @@
 ### Hi Hackers 👋
 
-![image](https://user-images.githubusercontent.com/116346668/215869594-78adeeb8-add7-4cc0-bd59-7297c46d5b13.png)
+https://media.giphy.com/media/8YBpKSm3uPWG9Ca0F4/giphy.gif
 
 
 
