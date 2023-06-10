@@ -1,8 +1,6 @@
 ### Hi Hackers 👋
 
-Welcome to my github-page. I've created this page to share my learning journey to InfoSec community.
-I am fully focused on Reverse engineering and binary exploitation, and so to achieve my goals i am working hard to become master in this area.
-If you are ready to learn with me, you can follow my repositories.
+Welcome to my GitHub page! I'm here to share my learning journey with the InfoSec community. I'm fully focused on mastering reverse engineering and binary exploitation. Join me as I work hard to achieve my goals. Follow my repositories if you're ready to learn together!
 
 - 🌱 I’m currently learning *Reverse-Engineering*, *Malware-Analysis*, *Binary-Exploitation*
 - 🔭 I’m currently working on *Mathematics*, *low-level Programming*
@@ -13,8 +11,8 @@ If you are ready to learn with me, you can follow my repositories.
     [Twitter](https://twitter.com/TurkishHoodie_?t=UF7bfCW0QG7bjqExWhA2sQ&s=35),
     [Linkedin](https://www.linkedin.com/in/ahmetgoker/),
     [YouTube](https://www.youtube.com/@TurkishHoodie),
-    [Medium](https://0xcd4.medium.com/),
-    [Instagram](https://www.instagram.com/0xcd4_/)
+    [Medium](https://cryptichex.medium.com/),
+
 
 
 
