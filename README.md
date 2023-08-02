@@ -18,14 +18,6 @@ Welcome to my GitHub page, where I share my thrilling journey in the captivating
 - Embedded Systems
   
 
-## 📫 Reach Me
-
-[Twitter](https://twitter.com/lockpin010_?t=cM2m7b89q1jeHy5pUy_fQA&s=09),
-[Linkedin](https://www.linkedin.com/in/ahmetgoker/),
-[Medium](https://lockpin010.medium.com/),
-
-
-
 ![Programming GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 
