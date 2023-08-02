@@ -3,11 +3,11 @@ Welcome to my GitHub page, where I share my thrilling journey in the captivating
 
 ## ⚡ Programming Languages
 
-![C](https://img.shields.io/badge/C-Intermediate-blue)
-![C++](https://img.shields.io/badge/C++-Intermediate-blue)
-![Assembly](https://img.shields.io/badge/Assembly-Advanced-brightgreen)
-![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-![Rust](https://img.shields.io/badge/Rust-Intermediate-orange)
+![C](https://img.shields.io/badge/C-blue)
+![C++](https://img.shields.io/badge/C++-blue)
+![Assembly](https://img.shields.io/badge/Assembly-brightgreen)
+![Python](https://img.shields.io/badge/Python-blue)
+![Rust](https://img.shields.io/badge/Rust-orange)
 
 ## 📚 Low-level Programming Concepts
 
@@ -16,6 +16,7 @@ Welcome to my GitHub page, where I share my thrilling journey in the captivating
 - Assembly Language Programming
 - Exploitation Techniques
 - Embedded Systems
+  
 
 ## 📫 Reach Me
 
@@ -23,7 +24,10 @@ Welcome to my GitHub page, where I share my thrilling journey in the captivating
 [Linkedin](https://www.linkedin.com/in/ahmetgoker/),
 [Medium](https://lockpin010.medium.com/),
 
-![Malware Analysis GIF](https://media.giphy.com/media/QLHYc2E17E5O3u4N4p/giphy.gif)
+
+
+![Programming GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 
 Let's connect, collaborate, and explore the fascinating world of programming and cybersecurity together! 🚀💻🔒
 
