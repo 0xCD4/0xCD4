@@ -1,7 +1,8 @@
 ## Hey fellow Hackers! 👋
-Welcome to my GitHub page, where I share my thrilling journey in the captivating world of InfoSec. My main focus revolves around the art of mastering Reverse Engineering and Binary Exploitation. Together, let's delve deep into these exciting domains and unravel the mysteries of the digital realm. Join me as I work diligently to achieve my goals and enhance my skills in this ever-evolving field.
 
-## ⚡ Programming Languages
+Welcome to my GitHub page. As a self-disciplined individual, I am working hard to improve myself to learn about reverse engineering and malware analysis. Not only with that, I am also fascinated by math theorems, number theory, geometry, and algebra. So this page will include more about those things. I do love working to improve algebra problems, conducting malware analysis in pieces, and understanding low-level programming. My favorite programming languages are assembly and C, so in this way, I have been enhancing to pursue becoming a master.
+
+## ⚡ Programming Languages 
 
 ![C](https://img.shields.io/badge/C-blue)
 ![C++](https://img.shields.io/badge/C++-blue)
