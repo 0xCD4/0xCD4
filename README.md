@@ -13,10 +13,10 @@ Hello everyone, I am interested in math, geometry, cryptography, and security. I
 
 ##  📫 How to reach me
 
-[Twitter](https://twitter.com/lockpin010_?t=cM2m7b89q1jeHy5pUy_fQA&s=09),
+[Twitter](https://x.com/ProofPI?t=fFi8FhQgvlja6bFq6jDuUw&s=09),
 [Linkedin](https://www.linkedin.com/in/ahmetgoker/),
 [Medium](https://medium.com/@lockpin010)
-  
+[Youtube](https://www.youtube.com/@ProofPi)  
 
 ![Programming GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
