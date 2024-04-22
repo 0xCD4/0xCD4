@@ -21,7 +21,7 @@ Hello everyone, I am interested in math, geometry, cryptography, and security. I
 ![Programming GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 
-Let's connect, collaborate, and explore the fascinating world of programming and cybersecurity together! 🚀💻🔒
+Let's connect! 🚀💻🔒
 
 
 
