@@ -1,11 +1,10 @@
 ## Hey!👋
 
-Hello everyone, I am interested in math, geometry, cryptography, and security. I can code in C/C++/Assembly/Python and I have been improving myself in Rust programming.
+Hello everyone, I am interested in math cryptography, OSINT, and security. I can code in C/Assembly/Python and I have been improving myself in Rust programming.
 
 ## ⚡ Programming Languages 
 
 ![C](https://img.shields.io/badge/C-blue)
-![C++](https://img.shields.io/badge/C++-blue)
 ![Assembly](https://img.shields.io/badge/Assembly-brightgreen)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Rust](https://img.shields.io/badge/Rust-orange)
