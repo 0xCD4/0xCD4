@@ -15,7 +15,7 @@ Hello everyone, I am interested in math cryptography, OSINT, and security. I can
 [Twitter](https://x.com/ProofPI?t=fFi8FhQgvlja6bFq6jDuUw&s=09),
 [Linkedin](https://www.linkedin.com/in/ahmetgoker/),
 [Medium](https://medium.com/@lockpin010)
-[Youtube](https://www.youtube.com/@ProofPi)  
+[Youtube](https://www.youtube.com/@lockpin010)  
 
 ![Programming GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
