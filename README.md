@@ -25,9 +25,5 @@ credit: Frederick Maheux
 
 
 
-Let's connect! 🚀💻🔒
-
-
-
 
 
