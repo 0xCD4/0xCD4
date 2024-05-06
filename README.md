@@ -17,7 +17,9 @@ Hello everyone, I am interested in math cryptography, OSINT, and security. I can
 [Medium](https://medium.com/@lockpin010)
 [Youtube](https://www.youtube.com/@lockpin010)  
 
-![Programming GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![o](https://github.com/0xCD4/0xCD4/assets/116346668/d986c8f2-825e-4e34-8aa5-d4de2c0f437b)
+
+credit: Frederick Maheux
 
 
 Let's connect! 🚀💻🔒
