@@ -1,6 +1,6 @@
 ## Hey!👋
 
-Hello everyone, I am interested in math cryptography, OSINT, and security. I can code in C/Assembly/Python and I have been improving myself in Rust programming.
+Hello everyone, I am interested in math cryptography, OSINT, military sociology and security. I can code in C, Assembly, Python and I have been improving myself in Rust programming.
 
 ## ⚡ Programming Languages 
 
