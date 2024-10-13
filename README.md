@@ -1,6 +1,7 @@
 ## Hey!👋
 
-Hello everyone, I am interested in math cryptography, OSINT, software, system security. I can code in C, Assembly, Python and I have been improving myself in Rust programming.
+Hello, welcome to my GitHub page! I am interested in low-level coding and security. I share low-level coding projects to improve my skills every day. I will also share malware analysis tools and exploitation techniques. Follow me if you'd like to support my work!
+
 
 ## ⚡ Programming Languages 
 
