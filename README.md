@@ -1,7 +1,6 @@
 ## Hey!👋
 
-Hello, welcome to my GitHub page! I am interested in low-level coding and security. I share low-level coding projects to improve my skills every day. I will also share malware analysis tools and exploitation techniques. Follow me if you'd like to support my work!
-
+I am a full stack reverse engineer who likes to work with C and assembly programming languages. Vulnerability research, system programming, and malware analysis are my hobbies.
 
 ## ⚡ Programming Languages 
 
