@@ -1,22 +1,20 @@
-## Hey!👋
+# Hey! 👋
 
-I am a full stack reverse engineer who likes to work with C and assembly programming languages. Vulnerability research, system programming, and malware analysis are my hobbies.
+I am a full-stack reverser researching kernel programming and Windows API. Currently diving deep into system internals and low-level programming.
 
-## ⚡ Programming Languages 
+⚡ **Current Focus:**
+- Kernel-level development and exploitation
+- Windows system programming internals
+- Binary analysis and reverse engineering
+- Low-level system architecture
 
-![C](https://img.shields.io/badge/C-blue)
-![Assembly](https://img.shields.io/badge/Assembly-brightgreen)
-![Python](https://img.shields.io/badge/Python-blue)
-![Rust](https://img.shields.io/badge/Rust-orange)
+## 🔧 Programming Languages & Tools
 
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_API-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
-![o](https://github.com/0xCD4/0xCD4/assets/116346668/d986c8f2-825e-4e34-8aa5-d4de2c0f437b)
-
-credit: Frederick Maheux
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/47190dab-9cb9-4bc2-b1ec-6ae011acc892)
