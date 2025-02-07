@@ -1,6 +1,6 @@
 # Hey! 👋  
 
-I am an **Exploit Developer** and **Low-Level Hacker**, passionate about system internals, low-level programming, and mobile security. My focus is on crafting innovative solutions and pushing the boundaries of system exploitation.  
+I am a **Exploit Developer** and **Low-Level Hacker** who loves working with how systems function, low-level code, and mobile security. I aim to create new methods and expand the limits of system use.  
 
 ⚡ **Current Focus:**  
 - Exploit development and reverse engineering  
