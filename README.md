@@ -1,20 +1,21 @@
-# Hey! 👋
 
-I am a full-stack reverser researching kernel programming and Windows API. Currently diving deep into system internals and low-level programming.
+# Hey! 👋  
 
-⚡ **Current Focus:**
-- Kernel-level development and exploitation
-- Windows system programming internals
-- Binary analysis and reverse engineering
-- Low-level system architecture
+I am an **Exploit Developer** and **Low-Level Hacker**, passionate about system internals, low-level programming, and mobile security. My focus is on crafting innovative solutions and pushing the boundaries of system exploitation.  
 
-## 🔧 Programming Languages & Tools
+⚡ **Current Focus:**  
+- Exploit development and reverse engineering  
+- Low-level system programming and hacking  
+- Mobile security and exploitation  
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows_API-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
+🛠 **Programming Languages & Tools**  
+`Assembly` `C` `JavaScript`  
 
-![image](https://github.com/user-attachments/assets/47190dab-9cb9-4bc2-b1ec-6ae011acc892)
+💻 **Research & Expertise Areas:**  
+- 🖥 **Kernel Development**  
+- 🔒 **System Security**  
+- 💥 **Exploit Development**  
+- 🔍 **Reverse Engineering**  
+- 📱 **Mobile Security**  
+- 🧩 **Binary Exploitation**  
+
