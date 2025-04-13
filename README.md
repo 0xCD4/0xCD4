@@ -1,20 +1,31 @@
-## 🔍 Exploring the Foundations of Computing
+# 🧠 Computing Theory & Formal Systems
 
-I am deeply interested in the **logical and mathematical principles** that shape computing. My work goes beyond writing code. I explore **how computation works at its core**, questioning its **foundations, limitations, and security**.
+I am a computer science theorist working at the intersection of **logic**, **epistemology**, and **software systems**. My research investigates:
 
-### 🏛 Core Areas of Interest
-- **Formal Logic & Computability** – Understanding what can and cannot be computed.
-- **Philosophy of Software** – Investigating the **ontological and epistemological** nature of programs.
-- **Software Security & Code Analysis** – Strengthening systems by identifying **structural weaknesses**.
+- What *can* and *cannot* be computed (formal logic, Turing machines, complexity classes)
+- How programs *represent knowledge* and encode *assumptions* about reality
+- How vulnerabilities arise from *structural failures* in software logic
+- The ontological and epistemic meaning of *computation* itself
 
-### 🌍 Multilingual Communication
-I engage with diverse perspectives, speaking multiple languages:  
-- **Turkish** 🇹🇷 (Native)  
-- **English** 🇬🇧 (Fluent)  
-- **Dutch** 🇳🇱 (Fluent)  
-- **Russian** 🇷🇺 (Pre-Intermediate)  
+My approach is abstract, mathematical, and language-theoretic—focusing on deep structure rather than surface syntax.
 
-### 🧠 Logic, Security & Theoretical Computing
-I approach computing as a **logical system** built on rules, yet shaped by real-world constraints. By combining **theory and practice**, I aim to create **more robust, secure, and well-structured** software.
+---
 
-🚀 Always exploring **deeper questions** in computing, security, and formal logic.
+## 🔬 Core Research Axes
+- **Formal Logic & Computability**: Recursive functions, lambda calculus, undecidability
+- **Epistemology of Software**: Programs as knowledge agents
+- **Security as Logical Analysis**: Vulnerability as proof failure
+- **Philosophy of Computing**: Computation as structured thought
+
+---
+
+## 🌍 Linguistic Systems
+I view language as computation’s oldest abstraction layer:
+- 🇹🇷 Turkish (native)
+- 🇬🇧 English (fluent)
+- 🇳🇱 Dutch (fluent)
+- 🇷🇺 Russian (pre-intermediate)
+
+---
+
+> Computing is not only what machines do. It is what logic permits.
