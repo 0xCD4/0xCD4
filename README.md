@@ -1,76 +1,62 @@
-# 0xCD4 - Theoretical Computer Science & Deep Mathematics
+# 0xCD4
 
 ## About
 
-I'm a theoretical computer scientist diving deep into mathematics and physics, exploring the fundamental structures that underpin computation, security, and the physical world. This space documents my journey through rigorous proof-based thinking, low-level systems understanding, and the beautiful intersections between abstract theory and concrete implementation.
+I study theoretical computer science, mathematics, and physics. I like understanding how things work from the ground up, whether that's a math proof, a binary exploit, or a physics problem. This is where I share what I learn.
 
-## Research Interests
+## What I Work On
 
-My work spans the theoretical and applied domains:
-
-**Theoretical Foundations:**
+**Theory & Math:**
 - Mathematical logic and proof theory
-- Computational complexity theory
+- Complexity theory
 - Abstract algebra and category theory
 - Differential geometry and topology
-- Mathematical physics and quantum mechanics
+- Quantum mechanics and mathematical physics
 - Type theory and formal verification
 
-**Applied Security & Systems:**
+**Security & Systems:**
 - Binary exploitation and reverse engineering
-- Memory corruption vulnerabilities
-- Control flow analysis and program semantics
-- Cryptographic primitives and protocol analysis
-- Low-level system architecture
+- Memory corruption bugs
+- Control flow analysis
+- Cryptography and protocol analysis
+- Low-level system internals
 
 ## Blog Topics
 
-I write in-depth technical articles exploring:
+I write detailed technical posts on:
 
-- **Exploit Development:** Memory safety violations, ROP chains, heap exploitation, kernel vulnerabilities
-- **Reverse Engineering:** Binary analysis, decompilation techniques, obfuscation methods, malware dissection
-- **Mathematics:** Real analysis, abstract algebra, discrete mathematics, number theory, graph theory
-- **Geometry:** Computational geometry, differential geometry, algebraic geometry, geometric algorithms
-- **Physics:** Quantum mechanics, statistical mechanics, classical field theory, mathematical physics
-- **Theoretical CS:** Automata theory, lambda calculus, complexity classes, formal languages, proof systems
+- **Exploit Development:** memory bugs, ROP chains, heap tricks, kernel exploits
+- **Reverse Engineering:** binary analysis, decompilation, obfuscation, malware analysis
+- **Mathematics:** real analysis, algebra, discrete math, number theory, graph theory
+- **Geometry:** computational, differential, and algebraic geometry
+- **Physics:** quantum mechanics, statistical mechanics, field theory
+- **Theoretical CS:** automata, lambda calculus, complexity classes, formal languages
 
-## Philosophy
+## How I Think
 
-Understanding comes from first principles. Whether analyzing a binary exploit or proving a theorem, I approach problems by:
+I start from the basics and build up. Whether it's a proof or an exploit:
 
-1. Building rigorous mathematical foundations
-2. Deriving results from axioms and formal definitions
-3. Connecting abstract theory to practical implementation
-4. Documenting the complete reasoning chain
+1. Get the fundamentals right
+2. Work from definitions and axioms
+3. Connect theory to practice
+4. Write down every step
 
-Every concept can be explained through equations, proofs, and logical structure. If the reasoning is sound, the knowledge is transferable.
+If the reasoning is solid, the knowledge sticks.
 
 ## Current Focus
 
-- Studying advanced topics in **algebraic topology** and **category theory**
-- Exploring connections between **quantum computing** and **complexity theory**
-- Researching **type systems** for memory-safe low-level programming
-- Analyzing **geometric algorithms** for computational problems
-- Reverse engineering **firmware** and **embedded systems**
-- Building formal models for **exploit primitives**
+- Algebraic topology and category theory
+- Quantum computing and complexity theory
+- Type systems for memory-safe low-level code
+- Geometric algorithms
+- Firmware and embedded systems reverse engineering
+- Formal models for exploit primitives
 
-## Repository Structure
+## What's Here
 
-This repository contains:
-- Technical write-ups and research notes
-- Proof-based explanations of complex concepts
-- Exploit development methodologies
-- Mathematical derivations and theorem proofs
-- Code implementations of theoretical concepts
+- Technical write-ups and notes
+- Proof-based explanations
+- Exploit development guides
+- Math derivations and proofs
+- Code for theoretical concepts
 - Reverse engineering case studies
-
-## Connect
-
-Whether you're interested in theoretical CS, deep mathematics, exploit development, or the rigorous analysis of systems, you'll find content here that bridges abstraction and implementation. All material is presented with formal precision while remaining accessible to dedicated learners.
-
----
-
-*"In theory, theory and practice are the same. In practice, they are not." - But we can make them converge.*
-
-
-
