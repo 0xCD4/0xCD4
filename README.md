@@ -1,62 +1,67 @@
+<div align="center">
+
 # 0xCD4
 
-## About
+**Security Researcher | Reverse Engineer | Low-Level Developer**
 
-I study theoretical computer science, mathematics, and physics. I like understanding how things work from the ground up, whether that's a math proof, a binary exploit, or a physics problem. This is where I share what I learn.
+`exploitation research` · `reverse engineering` · `systems programming` · `mathematics`
 
-## What I Work On
+---
 
-**Theory & Math:**
-- Mathematical logic and proof theory
-- Complexity theory
-- Abstract algebra and category theory
-- Differential geometry and topology
-- Quantum mechanics and mathematical physics
-- Type theory and formal verification
+<img src="https://img.shields.io/badge/Assembly-x86%2Fx64-545454?style=flat-square&logo=assemblyscript&logoColor=white" /> <img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Python-Mathematics-3776AB?style=flat-square&logo=python&logoColor=white" />
 
-**Security & Systems:**
-- Binary exploitation and reverse engineering
-- Memory corruption bugs
-- Control flow analysis
-- Cryptography and protocol analysis
-- Low-level system internals
+</div>
 
-## Blog Topics
+<br>
 
-I write detailed technical posts on:
+## `>_ whoami`
 
-- **Exploit Development:** memory bugs, ROP chains, heap tricks, kernel exploits
-- **Reverse Engineering:** binary analysis, decompilation, obfuscation, malware analysis
-- **Mathematics:** real analysis, algebra, discrete math, number theory, graph theory
-- **Geometry:** computational, differential, and algebraic geometry
-- **Physics:** quantum mechanics, statistical mechanics, field theory
-- **Theoretical CS:** automata, lambda calculus, complexity classes, formal languages
+Security researcher focused on **exploitation research** and **reverse engineering**.
+I write clean low-level code in **Assembly** and **C/C++**, and use **Python** for mathematics and automation.
+I study theoretical computer science, mathematics, and physics — understanding systems from the ground up.
 
-## How I Think
+<br>
 
-I start from the basics and build up. Whether it's a proof or an exploit:
+## `>_ skills`
 
-1. Get the fundamentals right
-2. Work from definitions and axioms
-3. Connect theory to practice
-4. Write down every step
+```
+Security                          Languages                 Theory
+├── Binary Exploitation           ├── x86/x64 Assembly      ├── Mathematical Logic
+├── Reverse Engineering           ├── C / C++               ├── Complexity Theory
+├── Memory Corruption             └── Python (math/auto)    ├── Abstract Algebra
+├── Exploit Development                                     ├── Differential Geometry
+├── Malware Analysis                                        ├── Quantum Mechanics
+├── Firmware RE                                             └── Type Theory
+└── Cryptography
+```
 
-If the reasoning is solid, the knowledge sticks.
+<br>
 
-## Current Focus
+## `>_ focus`
 
-- Algebraic topology and category theory
-- Quantum computing and complexity theory
-- Type systems for memory-safe low-level code
-- Geometric algorithms
-- Firmware and embedded systems reverse engineering
-- Formal models for exploit primitives
+| Security | Theory |
+|:---------|:-------|
+| Exploit primitives & memory bugs | Algebraic topology & category theory |
+| Firmware & embedded RE | Quantum computing & complexity theory |
+| Control flow & ROP chains | Type systems for memory-safe low-level code |
+| Kernel exploitation | Formal models & geometric algorithms |
 
-## What's Here
+<br>
 
-- Technical write-ups and notes
-- Proof-based explanations
-- Exploit development guides
-- Math derivations and proofs
-- Code for theoretical concepts
-- Reverse engineering case studies
+## `>_ content`
+
+- **Exploit Development** — memory corruption, ROP chains, heap techniques, kernel exploits
+- **Reverse Engineering** — binary analysis, decompilation, obfuscation, malware
+- **Mathematics** — real analysis, algebra, number theory, differential geometry
+- **Theoretical CS** — automata, lambda calculus, complexity classes, formal languages
+- **Physics** — quantum mechanics, statistical mechanics, field theory
+
+<br>
+
+<div align="center">
+
+```
+if the reasoning is solid, the knowledge sticks.
+```
+
+</div>
