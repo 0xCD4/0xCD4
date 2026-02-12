@@ -2,59 +2,56 @@
 
 # 0xCD4
 
-**Security Researcher | Reverse Engineer | Low-Level Developer**
-
-`exploitation research` · `reverse engineering` · `systems programming` · `mathematics`
-
----
-
-<img src="https://img.shields.io/badge/Assembly-x86%2Fx64-545454?style=flat-square&logo=assemblyscript&logoColor=white" /> <img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Python-Mathematics-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/x86%2Fx64_Assembly-545454?style=flat-square&logo=assemblyscript&logoColor=white" /> <img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 </div>
 
-<br>
-
-## `>_ whoami`
-
-Security researcher focused on **exploitation research** and **reverse engineering**.
-I write clean low-level code in **Assembly** and **C/C++**, and use **Python** for mathematics and automation.
-I study theoretical computer science, mathematics, and physics — understanding systems from the ground up.
-
-<br>
-
-## `>_ skills`
-
 ```
-Security                          Languages                 Theory
-├── Binary Exploitation           ├── x86/x64 Assembly      ├── Mathematical Logic
-├── Reverse Engineering           ├── C / C++               ├── Complexity Theory
-├── Memory Corruption             └── Python (math/auto)    ├── Abstract Algebra
-├── Exploit Development                                     ├── Differential Geometry
-├── Malware Analysis                                        ├── Quantum Mechanics
-├── Firmware RE                                             └── Type Theory
-└── Cryptography
+exploit dev / reverse engineering / low-level systems / math
 ```
 
 <br>
 
-## `>_ focus`
+### <img src="https://img.shields.io/badge/%3E_%20whoami-FF3B30?style=flat-square&labelColor=0d1117" />
 
-| Security | Theory |
-|:---------|:-------|
-| Exploit primitives & memory bugs | Algebraic topology & category theory |
-| Firmware & embedded RE | Quantum computing & complexity theory |
-| Control flow & ROP chains | Type systems for memory-safe low-level code |
-| Kernel exploitation | Formal models & geometric algorithms |
+i break binaries, write low-level code, and study math.
+
+**Assembly** and **C/C++** for systems and exploitation, **Python** for math and tooling.
 
 <br>
 
-## `>_ content`
+### <img src="https://img.shields.io/badge/%3E_%20skills-FFBD2E?style=flat-square&labelColor=0d1117" />
 
-- **Exploit Development** — memory corruption, ROP chains, heap techniques, kernel exploits
-- **Reverse Engineering** — binary analysis, decompilation, obfuscation, malware
-- **Mathematics** — real analysis, algebra, number theory, differential geometry
-- **Theoretical CS** — automata, lambda calculus, complexity classes, formal languages
-- **Physics** — quantum mechanics, statistical mechanics, field theory
+```
+security                          languages                 theory
+├── binary exploitation           ├── x86/x64 Assembly      ├── mathematical logic
+├── reverse engineering           ├── C / C++               ├── complexity theory
+├── memory corruption             └── Python                ├── abstract algebra
+├── exploit development                                     ├── differential geometry
+├── malware analysis                                        ├── quantum mechanics
+├── firmware RE                                             └── type theory
+└── cryptography
+```
+
+<br>
+
+### <img src="https://img.shields.io/badge/%3E_%20focus-007AFF?style=flat-square&labelColor=0d1117" />
+
+| security | theory |
+|:--|:--|
+| exploit primitives, memory bugs | algebraic topology, category theory |
+| firmware & embedded RE | quantum computing, complexity |
+| kernel exploitation | type systems for safe low-level code |
+
+<br>
+
+### <img src="https://img.shields.io/badge/%3E_%20writes-8E8E93?style=flat-square&labelColor=0d1117" />
+
+- **exploit dev** : memory corruption, ROP, heap, kernel
+- **reverse engineering** : binary analysis, decompilation, malware
+- **math** : analysis, algebra, number theory, geometry
+- **CS theory** : automata, lambda calculus, complexity
+- **physics** : quantum mechanics, stat mech, field theory
 
 <br>
 
