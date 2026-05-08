@@ -68,6 +68,6 @@
   </g>
 
   <text x="126" y="88" fill="#dc1f35" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="5">0xCD4 / CSINT</text>
-  <text x="126" y="382" fill="#111722" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="800">açık kaynak araştırması, kanıt düzeni ve sakin doğrulama</text>
-  <text x="126" y="407" fill="#69788a" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">bulgu hızlı gelir; sağlam sonuç için bağlam gerekir</text>
+  <text x="126" y="374" fill="#111722" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="33" font-weight="800">açık kaynak araştırması, kanıt düzeni ve sakin doğrulama</text>
+  <text x="126" y="400" fill="#69788a" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">open-source research, evidence workflow, and careful verification</text>
 </svg>
