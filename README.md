@@ -1,71 +1,37 @@
-<div align="center">
-  <img src="./assets/osint-profile-map.svg" alt="0xCD4 OSINT mindset banner" width="100%" />
-</div>
+# Ahmet Göker
 
-# 0xCD4
+I work on OSINT, threat intelligence, and defensive security.
 
-> Önce soru, sonra kaynak.  
-> First the question, then the source.
+[CSINT Research](https://en.csintresearch.org/) is where I turn that work into public tools, research notes, and repeatable labs. The goal is not to collect more links. It is to show where a claim came from, how it was checked, and where the evidence stops.
 
-## Kısa not / Short note
+> Start with the question. Keep the source. Stop where the evidence stops.
 
-**TR**  
-Açık kaynak araştırması, doğrulama ve raporlama düzeni üzerine çalışıyorum. CSINT tarafında amacım yeni bir link yığını yapmak değil; araştırmacının bulguyu nereden aldığını, ne kadar güvenebileceğini ve hangi sınırla paylaşacağını daha rahat görmesi.
+## Working method
 
-**EN**  
-I work on open-source research, verification, and reporting discipline. With CSINT, the goal is not to create another pile of links; it is to make it easier to see where a finding came from, how much confidence it deserves, and what should stay out of the report.
+1. Define the question before choosing a tool.
+2. Preserve the source and its context.
+3. Keep facts, inference, and assumptions separate.
+4. Check important findings against an independent trace.
+5. Record what could not be verified.
 
-## OSINT mindset
+## CSINT Research side projects
 
-| Adım / Step | Ne ararım / What I look for |
-| --- | --- |
-| Soru / Question | Araştırmanın sınırı nerede başlıyor, nerede bitiyor?<br>Where does the research begin, and where should it stop? |
-| Kaynak / Source | Bilgi birincil kaynağa, arşive veya bağımsız bir iz noktasına bağlanıyor mu?<br>Does it connect to a primary source, archive, or independent trace? |
-| Bağlam / Context | Tarih, yer, platform ve paylaşım zinciri aynı şeyi mi söylüyor?<br>Do time, place, platform, and sharing path tell the same story? |
-| Doğrulama / Verification | İkinci kaynak, ters kontrol veya teknik iz bu bulguyu destekliyor mu?<br>Does a second source, reverse check, or technical trace support it? |
-| Rapor / Report | Kanıt, yorum, varsayım ve sınırlılık birbirinden ayrılmış mı?<br>Are evidence, interpretation, assumptions, and limits kept separate? |
+### [n8n AI Security Regression Gate](https://github.com/0xCD4/n8n-ai-agent-security-lab)
 
-## Üzerinde çalıştıklarım / Current work
+Static and staging-safe checks for n8n AI workflows. It follows risky paths through a workflow export, runs a small runtime contract against an isolated staging target, and produces reviewable reports.
 
-| Proje / Project | Not |
-| --- | --- |
-| [CSINT Kaynak Arşivi](https://0xcd4.github.io/) | OSINT kaynaklarını kategori, risk ve doğrulama notuyla düzenliyorum.<br>OSINT resources organized with category, risk, and verification notes. |
-| [Handbooklar](https://0xcd4.github.io/handbooks) | Türkçe ve zamanla iki dilli başvuru dokümanları.<br>Reference documents in Turkish, gradually expanding into bilingual material. |
-| [İş akışları](https://0xcd4.github.io/workflows) | Domain, görsel, sosyal medya, kriz ve raporlama için sakin rotalar.<br>Calm workflows for domains, images, social media, crisis checks, and reporting. |
+### [GOSI-ready OSINT VM](https://github.com/0xCD4/gosi-ready-osint-vm)
 
-## Prensipler / Principles
+A repeatable Ubuntu workstation for lawful OSINT practice. The setup is documented so the environment can be rebuilt instead of maintained as an unexplained machine image.
 
-```text
-Tek link sonuç değildir.          One link is not a conclusion.
-Ekran görüntüsü bağlam değildir.  A screenshot is not context.
-Bulmak paylaşmak demek değildir.  Finding is not the same as publishing.
-Rapor, emin olmadığını da söyler. A report should also say what is uncertain.
-```
+### [Operation Glass Harbor](https://github.com/0xCD4/operation-glass-harbor)
 
-## İlgi alanları / Focus
+A fictional defensive investigation campaign covering OSINT, HUMINT, threat intelligence, and incident response. It is designed as a practical lab, not a collection of quiz questions.
 
-```text
-OSINT       kaynak keşfi, arşivleme, doğrulama
-            source discovery, archiving, verification
+## Contact
 
-GEOINT      görsel ipuçları, harita, zaman ve yer bağlamı
-            visual clues, maps, time and place context
+- [CSINT Research](https://en.csintresearch.org/)
+- [X](https://x.com/_shadowintel_)
+- [LinkedIn](https://www.linkedin.com/in/ahmet-göker)
 
-SOCMINT     açık profil izi, iddia kontrolü, platform bağlamı
-            public profile traces, claim checks, platform context
-
-OPSEC       güvenli çalışma alışkanlığı, iz azaltma
-            safer research habits, reducing unnecessary exposure
-
-Raporlama   kanıt kaydı, sınırlılık, güven düzeyi
-Reporting   evidence logs, limits, confidence level
-```
-
-<div align="center">
-
-```text
-Bulgu hızlı gelir. Sağlam sonuç yavaş kurulur.
-A finding may arrive quickly. A solid conclusion is built slowly.
-```
-
-</div>
+Older reverse engineering and low-level security work remains available in the repositories tab. This page stays focused on current CSINT Research work.
