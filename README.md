@@ -6,7 +6,7 @@ Most of my public work is at [CSINT Research](https://csintresearch.org/). I bui
 
 ## How I work
 
-![A hand-drawn research path from a question to a report](./assets/research-path.svg)
+![A hand-drawn research path from a question to a report](./assets/research-path-v2.svg)
 
 I start with a question, go back to the source, and check the claim. If the evidence holds up, I show how I got there. If something is missing, I say so.
 
