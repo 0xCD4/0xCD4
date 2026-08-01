@@ -17,7 +17,6 @@
       .arrow { fill: none; stroke: #31363f; stroke-width: 2.2; stroke-linecap: round; marker-end: url(#arrow); }
       .label { fill: #20242a; font: 600 20px "Segoe Print", "Bradley Hand", "Comic Sans MS", cursive; text-anchor: middle; }
       .note { fill: #626a74; font: 16px "Segoe Print", "Bradley Hand", "Comic Sans MS", cursive; text-anchor: middle; }
-      .small { fill: #626a74; font: 15px "Segoe Print", "Bradley Hand", "Comic Sans MS", cursive; }
       .accent { fill: #fff4dd; stroke: #b26a2d; }
     </style>
   </defs>
@@ -63,6 +62,4 @@
   <text class="label" x="762" y="266">unknowns</text>
   <text class="note" x="762" y="290">write them down</text>
 
-  <text class="small" x="605" y="107" transform="rotate(-8 605 107)">yes</text>
-  <text class="small" x="613" y="250" transform="rotate(8 613 250)">not yet</text>
 </svg>
