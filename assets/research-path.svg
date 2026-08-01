@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="390" viewBox="0 0 1100 390" role="img" aria-labelledby="title desc">
+  <title id="title">A simple research path</title>
+  <desc id="desc">A hand-drawn path from a question to a source, a careful check, evidence, and a report. Missing information is recorded separately.</desc>
+
+  <defs>
+    <filter id="rough" x="-3%" y="-6%" width="106%" height="112%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.012" numOctaves="1" seed="17" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.5" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#31363f" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <style>
+      .paper { fill: #fbfaf6; }
+      .ink { fill: none; stroke: #31363f; stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; }
+      .faint { fill: none; stroke: #98a0aa; stroke-width: 1.2; stroke-linecap: round; opacity: .5; }
+      .arrow { fill: none; stroke: #31363f; stroke-width: 2.2; stroke-linecap: round; marker-end: url(#arrow); }
+      .label { fill: #20242a; font: 600 20px "Segoe Print", "Bradley Hand", "Comic Sans MS", cursive; text-anchor: middle; }
+      .note { fill: #626a74; font: 16px "Segoe Print", "Bradley Hand", "Comic Sans MS", cursive; text-anchor: middle; }
+      .small { fill: #626a74; font: 15px "Segoe Print", "Bradley Hand", "Comic Sans MS", cursive; }
+      .accent { fill: #fff4dd; stroke: #b26a2d; }
+    </style>
+  </defs>
+
+  <rect class="paper" x="7" y="7" width="1086" height="376" rx="22"/>
+  <g filter="url(#rough)">
+    <path class="faint" d="M28 32 C245 22 439 36 650 28 C823 22 946 34 1074 27"/>
+    <path class="faint" d="M31 354 C239 363 424 348 617 358 C786 367 933 348 1072 358"/>
+
+    <path class="arrow" d="M204 173 C229 163 248 164 269 171"/>
+    <path class="arrow" d="M398 171 C425 163 446 164 469 172"/>
+    <path class="arrow" d="M600 168 C632 135 658 119 696 116"/>
+    <path class="arrow" d="M825 116 C850 109 873 110 896 117"/>
+    <path class="arrow" d="M581 203 C614 234 642 253 684 264"/>
+
+    <path class="ink" d="M57 130 C88 122 155 124 185 132 C197 151 195 188 184 209 C147 218 91 216 58 207 C48 181 48 153 57 130 Z"/>
+    <path class="ink" d="M270 131 C302 123 362 124 390 132 C401 151 401 190 388 209 C356 217 301 216 271 207 C260 184 261 151 270 131 Z"/>
+    <path class="ink" d="M470 130 C502 123 570 124 599 132 C610 154 609 187 598 208 C561 216 505 216 472 207 C460 184 461 151 470 130 Z"/>
+    <path class="ink accent" d="M698 76 C733 68 790 70 820 78 C831 97 831 132 820 151 C787 160 731 158 699 151 C689 132 689 95 698 76 Z"/>
+    <path class="ink" d="M898 78 C929 69 1005 70 1037 78 C1049 100 1047 131 1036 151 C996 160 936 159 899 151 C889 130 889 98 898 78 Z"/>
+    <path class="ink" stroke-dasharray="7 7" d="M686 228 C723 218 800 221 837 231 C847 252 847 287 835 306 C794 315 725 312 689 305 C676 284 677 249 686 228 Z"/>
+
+    <path class="faint" d="M80 229 C109 222 153 224 175 229"/>
+    <path class="faint" d="M286 228 C313 222 360 223 382 229"/>
+    <path class="faint" d="M492 228 C519 223 568 223 591 229"/>
+  </g>
+
+  <text class="label" x="122" y="176">question</text>
+  <text class="note" x="122" y="199">start here</text>
+
+  <text class="label" x="331" y="176">source</text>
+  <text class="note" x="331" y="199">go back to it</text>
+
+  <text class="label" x="535" y="176">check</text>
+  <text class="note" x="535" y="199">test the claim</text>
+
+  <text class="label" x="760" y="113">evidence</text>
+  <text class="note" x="760" y="136">what holds up</text>
+
+  <text class="label" x="968" y="113">report</text>
+  <text class="note" x="968" y="136">show the trail</text>
+
+  <text class="label" x="762" y="266">unknowns</text>
+  <text class="note" x="762" y="290">write them down</text>
+
+  <text class="small" x="605" y="107" transform="rotate(-8 605 107)">yes</text>
+  <text class="small" x="613" y="250" transform="rotate(8 613 250)">not yet</text>
+</svg>

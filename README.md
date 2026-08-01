@@ -2,44 +2,27 @@
 
 I work on OSINT, threat intelligence, AI workflow security, and defensive research.
 
-[CSINT Research](https://csintresearch.org/) is my public research workspace. I build practical tools, document how findings were verified, and publish the limits of the available evidence.
+Most of my public work is at [CSINT Research](https://csintresearch.org/). I build tools and labs, explain how I checked a finding, and note what I could not verify.
 
-> Start with the question. Keep the source. Stop where the evidence stops.
+## How I work
 
-## How the work moves
+![A hand-drawn research path from a question to a report](./assets/research-path.svg)
 
-```mermaid
-flowchart LR
-    Q["Question"] --> S["Source"]
-    S --> V["Verification"]
-    V --> E["Evidence"]
-    E --> R["Report"]
-    V --> L["Known limit"]
-```
+I start with a question, go back to the source, and check the claim. If the evidence holds up, I show how I got there. If something is missing, I say so.
 
-Every report should make this path visible. A lead is not a finding. A finding without its source and limits is not ready to publish.
-
-## Vision
-
-Make open-source research easier to inspect, reproduce, and challenge.
-
-## Mission
-
-Build useful tools and hands-on labs for researchers and defenders. Keep facts, inference, and assumptions separate. Preserve context. Record what could not be verified.
-
-## Current work
+## Projects
 
 ### [n8n AI Security Regression Gate](https://github.com/0xCD4/n8n-ai-agent-security-lab)
 
-Static and staging-safe security checks for n8n AI workflows, with reviewable JSON, Markdown, JUnit, and SARIF reports.
+Checks n8n AI workflows for common security regressions and writes the results as JSON, Markdown, JUnit, and SARIF.
 
 ### [GOSI-ready OSINT VM](https://github.com/0xCD4/gosi-ready-osint-vm)
 
-A repeatable Ubuntu workstation for lawful OSINT practice and hands-on study.
+A repeatable Ubuntu workstation for OSINT practice and study.
 
 ### [Operation Glass Harbor](https://github.com/0xCD4/operation-glass-harbor)
 
-A fictional defensive investigation lab covering OSINT, HUMINT, threat intelligence, and incident response.
+A fictional investigation lab for practicing OSINT, HUMINT, threat intelligence, and incident response.
 
 ## Links
 
