@@ -1,33 +1,35 @@
-# Ahmet Göker
+<p align="center">
+  <img src="./assets/profile-note.svg" alt="Ahmet Goker — OSINT, threat intelligence, and AI workflow security" width="100%">
+</p>
 
-I work on OSINT, threat intelligence, AI workflow security, and defensive research.
+<p align="center">
+  <a href="https://en.csintresearch.org/">CSINT Research</a> ·
+  <a href="https://en.csintresearch.org/research">Research notes</a> ·
+  <a href="https://www.linkedin.com/in/ahmet-g%C3%B6ker">LinkedIn</a> ·
+  <a href="https://x.com/_shadowintel_">X</a>
+</p>
 
-Most of my public work is at [CSINT Research](https://csintresearch.org/). I build tools and labs, explain how I checked a finding, and note what I could not verify.
+I build defensive tools and practical research environments. My work moves between open-source intelligence, threat intelligence, low-level security, and safer AI automation.
 
-## How I work
+I try to show the evidence, the method, and the limits of what I could verify.
 
-![A hand-drawn research path from a question to a report](./assets/research-path-v2.svg)
+## Current work
 
-I start with a question, go back to the source, and check the claim. If the evidence holds up, I show how I got there. If something is missing, I say so.
+- **[n8n AI Agent Security Lab](https://github.com/0xCD4/n8n-ai-agent-security-lab)** — local-first static review, trust-boundary mapping, regression checks, and a narrow Docker-based release rehearsal for supported n8n workflow changes.
 
-## Projects
+- **[CSINT Research](https://en.csintresearch.org/)** — an independent workspace for sourced OSINT notes, threat-intelligence tools, defensive labs, and reproducible investigation methods.
 
-### [n8n AI Security Regression Gate](https://github.com/0xCD4/n8n-ai-agent-security-lab)
+- **[TraceFlow thesis](https://github.com/0xCD4/traceflow-thesis)** — undergraduate research on Linux runtime behavior analysis with DynamoRIO.
 
-Checks n8n AI workflows for common security regressions and writes the results as JSON, Markdown, JUnit, and SARIF.
+## Selected labs
 
-### [GOSI-ready OSINT VM](https://github.com/0xCD4/gosi-ready-osint-vm)
+- **[GOSI-ready OSINT VM](https://github.com/0xCD4/gosi-ready-osint-vm)** — a repeatable Ubuntu workstation for lawful OSINT practice.
+- **[Operation Glass Harbor](https://github.com/0xCD4/operation-glass-harbor)** — a fictional, multi-stage defensive investigation campaign.
+- **[N4TIVE](https://github.com/0xCD4/N4TIVE)** — Android native reversing challenges covering memory corruption, anti-debugging, and custom VM analysis.
+- **[Linux Kernel Exploitation CTF Lab](https://github.com/0xCD4/kernel-ctf-lab)** — a focused environment for learning kernel exploitation safely.
 
-A repeatable Ubuntu workstation for OSINT practice and study.
+## Working principles
 
-### [Operation Glass Harbor](https://github.com/0xCD4/operation-glass-harbor)
+`source before summary` · `evidence before confidence` · `unknowns stay visible`
 
-A fictional investigation lab for practicing OSINT, HUMINT, threat intelligence, and incident response.
-
-## Links
-
-- [CSINT Research](https://csintresearch.org/)
-- [X](https://x.com/_shadowintel_)
-- [LinkedIn](https://www.linkedin.com/in/ahmet-göker)
-
-Older reverse engineering and low-level security work remains available in the repositories tab.
+Older reverse-engineering and security experiments remain available in the repositories tab.
